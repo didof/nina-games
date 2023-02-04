@@ -1,6 +1,6 @@
 import { GoOk } from "../types/global"
 import Cell from "./Cell"
-import {Bitmask, bitmask, bitflag, bitwise, b } from "bitmask-decorator/lib/main"
+import {Bitmask, bitmask, bitflag, bitwise, b } from "bitmask-decorator"
 
 export default abstract class Pawn {
     private placed = false

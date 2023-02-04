@@ -68,9 +68,9 @@ arg@^4.1.0:
   integrity sha512-58S9QDqG0Xx27YwPSt9fJxivjYl432YCwfDMfZ+71RAqUrZef7LrKQZ3LHLOwCS4FLNBplP533Zx895SeOCHvA==
 
 bitmask-decorator@^1.0.1:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/bitmask-decorator/-/bitmask-decorator-1.0.5.tgz#460ed26282d93fecaa911f133fffa4b83b4c861f"
-  integrity sha512-OH2Gg8jPpH4vXUgGtBlZuYHCIa8tiiRZcR/A+rsnQvTKzFa/W4D2Y8PTNldgzWLHz1XhDl7yTV5VNSWY3C7EIg==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/bitmask-decorator/-/bitmask-decorator-1.0.6.tgz#eeee048da974e85a005216b3d449fe6820f32a73"
+  integrity sha512-tnOezCPJHmg329HJBaEFT6SdYMvAomy5C4QDYGOH9vLaYLTsRDd+nClgq4RcmA3HEH0M4khVB9M0/QF7EH4iDA==
 
 create-require@^1.1.0:
   version "1.1.1"
