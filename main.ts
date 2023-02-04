@@ -1,3 +1,1 @@
-import { newQuartoGame } from "./engine/Game"
-
-newQuartoGame()
+const quarto = createQuarto()
